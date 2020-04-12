@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVVM-test</string>
+    <string name="add_random_user">Add random user</string>
+</resources>
